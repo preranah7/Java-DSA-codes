@@ -88,7 +88,7 @@ public class advancedpatterns {
         //hollow_rectangle(5, 7);
         //inverted_rotated_half_pyramid(5);
         //inverted_half_pyramid_withNums(7);
-        floyds_triangle(3);
+        floyds_triangle(5);
     
     }
 }
